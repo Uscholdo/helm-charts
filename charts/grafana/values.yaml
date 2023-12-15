@@ -1063,7 +1063,7 @@ sidecar:
 
 ## Override the deployment namespace
 ##
-namespaceOverride: ""
+namespaceOverride: "grafana-test"
 
 ## Number of old ReplicaSets to retain
 ##
